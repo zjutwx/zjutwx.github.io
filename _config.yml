@@ -1,8 +1,8 @@
 # Site settings
-title: WX Blog 
-SEOTitle: WX的博客 | WX Blog   
-header-img: img/home-bg.jpg 
-email: x2290620193@gmail.com 
+title: WX Blog
+SEOTitle: WX的博客 | WX Blog
+header-img: img/home-bg.jpg
+email: none
 description: "这里是 @WX 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "WX, WX, zjutwx的博客, zjutwx Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+# disqus_username: hux
 
 # Netease settings
 netease_comment: false
